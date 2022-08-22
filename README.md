@@ -6,3 +6,4 @@ Skills to be demonstrated:
 2. Basic command Line skills
 3. HTML Basics
 4. VSCode Basics
+5. Linking Various Pages together
